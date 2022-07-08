@@ -1,44 +1,43 @@
-
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
 }
-h1{
-    font-size: 45px;
+h1 {
+  font-size: 45px;
 }
-#sf-color{
-    color: orange;
+#sf-color {
+  color: orange;
 }
 #faysal-color {
-    color: rgb(219, 136, 12);
+  color: rgb(219, 136, 12);
 }
 
-section{
-    display: flex;
-    margin-bottom: 150px;
+.flecbale-container {
+  display: flex;
+  margin-bottom: 150px;
 }
-.half-with{
-    width: 50%;
-    padding-left: 5%;
+.half-with {
+  width: 50%;
+  padding-left: 5%;
 }
 .half-with img {
-    width: 90%;
+  width: 90%;
 }
 
-.link-button{
-    text-decoration: none;
-    background-image: linear-gradient(orange,rgb(189, 57, 33));
-    padding: 10px 40px;
-    color: rgb(255, 255, 255);
-    font-weight: 700px;
-    border-radius: 5px; 
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, rgb(189, 57, 33));
+  padding: 10px 40px;
+  color: rgb(255, 255, 255);
+  font-weight: 700px;
+  border-radius: 5px;
 }
-.top-bacbround{
-    background-image: url(/image/top-banner.png);
-    background-repeat: no-repeat;
+.top-bacbround {
+  background-image: url(/image/top-banner.png);
+  background-repeat: no-repeat;
 }
-.DREam-big{
-    background-image: url(/image/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
+.DREam-big {
+  background-image: url(/image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
