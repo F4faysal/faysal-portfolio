@@ -50,3 +50,18 @@ h1 {
   padding-right: 20px;
   box-shadow: 10px 10px 40px black;
 }
+
+.bacground-exp {
+  background-image: url(/image/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#Full-Stack-Web-Developer {
+  border-left: 7px solid blue;
+}
+#Baby-Web-Developer {
+  border-left: 7px solid rgb(0, 255, 102);
+}
+footer p {
+  text-align: center;
+}
